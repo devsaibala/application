@@ -1,4 +1,4 @@
-name: reusable workflow
+name: JAVA CI
 
 on:
  workflow_call:
